@@ -19,7 +19,7 @@
     "hostile",
     "climb"
   ],
-  "net.divinerpg.entities.vanilla.Frost": [
+  "net.divinerpg.entities.vanilla.EntityFrost": [
     "hostile",
     "fly|true"
   ],
